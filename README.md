@@ -1,10 +1,5 @@
-go-xdr
+fonero-golang-xdr
 ======
-
-**NOTE: this is a temporary fork, used by go-stellar-base.  We intend to work
-with the maintainers at https://github.com/davecgh/go-xdr to contribute it back.
-**
-
 
 [![Build Status](https://travis-ci.org/davecgh/go-xdr.png?branch=master)]
 (https://travis-ci.org/davecgh/go-xdr) [![Coverage Status]
